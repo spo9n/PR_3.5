@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR_3.5_Surgai", "PR_3.5_Surgai\PR_3.5_Surgai.csproj", "{CA478018-8DA0-48B8-91AA-359EB95C64F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA478018-8DA0-48B8-91AA-359EB95C64F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA478018-8DA0-48B8-91AA-359EB95C64F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA478018-8DA0-48B8-91AA-359EB95C64F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA478018-8DA0-48B8-91AA-359EB95C64F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C05A3AF3-DC89-4BA6-A4FD-253A641B1FDA}
+	EndGlobalSection
+EndGlobal
